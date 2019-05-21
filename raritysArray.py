@@ -1,0 +1,5 @@
+yugiohUltra = ["ウル", "ウルトラ", "ウルトラレア", "UR"]
+yugiohSuper = ["スーパー", "スーパーレア", "SP"]
+yugiohPararel = ["パラ", "パラレル", "パラレルレア", "PR"]
+yugiohSecret = ["シク", "シークレット", "シークレットレア", "SE", "se"]
+yugiohAsia = ["アジア"]
